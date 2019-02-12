@@ -1,6 +1,6 @@
 <?php
 
 foreach($_GET as $key => $values){
-    echo $key . ": " .$values . "\r";
+    echo $key . ": " .$values . "<br>";
 }
 ?>
